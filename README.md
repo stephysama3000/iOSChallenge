@@ -7,21 +7,21 @@ API.
 - The listing and search views must show at least the name and poster image of the
 series.
 - After clicking on a series, the application should show the details of the series, showing
-the following information:
-○ Name
-○ Poster
-○ Days and time during which the series airs
-○ Genres
-○ Summary
-○ List of episodes separated by season
+the following information:<br>
+○ Name<br>
+○ Poster<br>
+○ Days and time during which the series airs<br>
+○ Genres<br>
+○ Summary<br>
+○ List of episodes separated by season<br>
 
 - After clicking on an episode, the application should show the episode’s information,
-including:
-○ Name
-○ Number
-○ Season
-○ Summary
-○ Image, if there is one
+including:<br>
+○ Name<br>
+○ Number<br>
+○ Season<br>
+○ Summary<br>
+○ Image, if there is one<br>
 
 - Allow the user to save a series as a favorite.
 - Allow the user to delete a series from the favorites list.
